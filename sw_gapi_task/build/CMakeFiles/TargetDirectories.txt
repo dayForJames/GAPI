@@ -1,3 +1,0 @@
-/home/james/Рабочий стол/sw_gapi_task/build/CMakeFiles/testapp.dir
-/home/james/Рабочий стол/sw_gapi_task/build/CMakeFiles/edit_cache.dir
-/home/james/Рабочий стол/sw_gapi_task/build/CMakeFiles/rebuild_cache.dir
