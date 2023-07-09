@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/Users/sergei/Desktop/GAPI-main/sw_gapi_task/build",
+  "command": "/usr/local/bin/g++-13 -D_CRT_SECURE_NO_WARNINGS -I/Users/sergei/Desktop/GAPI-main/sw_gapi_task/. -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fopenmp -std=gnu++17 -o CMakeFiles/testapp.dir/main.cpp.o -c /Users/sergei/Desktop/GAPI-main/sw_gapi_task/main.cpp",
+  "file": "/Users/sergei/Desktop/GAPI-main/sw_gapi_task/main.cpp"
+},
+{
+  "directory": "/Users/sergei/Desktop/GAPI-main/sw_gapi_task/build",
+  "command": "/usr/local/bin/g++-13 -D_CRT_SECURE_NO_WARNINGS -I/Users/sergei/Desktop/GAPI-main/sw_gapi_task/. -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fopenmp -std=gnu++17 -o CMakeFiles/testapp.dir/Bitmap.cpp.o -c /Users/sergei/Desktop/GAPI-main/sw_gapi_task/Bitmap.cpp",
+  "file": "/Users/sergei/Desktop/GAPI-main/sw_gapi_task/Bitmap.cpp"
+},
+{
+  "directory": "/Users/sergei/Desktop/GAPI-main/sw_gapi_task/build",
+  "command": "/usr/local/bin/g++-13 -D_CRT_SECURE_NO_WARNINGS -I/Users/sergei/Desktop/GAPI-main/sw_gapi_task/. -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fopenmp -std=gnu++17 -o CMakeFiles/testapp.dir/lgapi.cpp.o -c /Users/sergei/Desktop/GAPI-main/sw_gapi_task/lgapi.cpp",
+  "file": "/Users/sergei/Desktop/GAPI-main/sw_gapi_task/lgapi.cpp"
+},
+{
+  "directory": "/Users/sergei/Desktop/GAPI-main/sw_gapi_task/build",
+  "command": "/usr/local/bin/g++-13 -D_CRT_SECURE_NO_WARNINGS -I/Users/sergei/Desktop/GAPI-main/sw_gapi_task/. -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fopenmp -std=gnu++17 -o CMakeFiles/testapp.dir/scene.cpp.o -c /Users/sergei/Desktop/GAPI-main/sw_gapi_task/scene.cpp",
+  "file": "/Users/sergei/Desktop/GAPI-main/sw_gapi_task/scene.cpp"
+}
+]
