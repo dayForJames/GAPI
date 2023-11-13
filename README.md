@@ -18,4 +18,3 @@
 #### To view not black pictures of scenes need to write:
 * cd ./build && make -j 8 && cd .. && ./build/testapp
 
-## ENJJOOOOY
